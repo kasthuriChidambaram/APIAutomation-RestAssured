@@ -1,0 +1,204 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="55147aaa-469b-4ddf-afc5-1dddac1e949d" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="2LZUSBnz7u2GpiavKg860ybWLdl" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.postfix.templates" />
+  </component>
+  <component name="RunAnythingCache">
+    <option name="myCommands">
+      <command value="mvn verify" />
+    </option>
+  </component>
+  <component name="RunManager" selected="JUnit.FeatureRunnerTest">
+    <configuration name="FeatureRunnerTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="ProjectRestAssured" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.project.restassured.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.project.restassured" />
+      <option name="MAIN_CLASS_NAME" value="com.project.restassured.FeatureRunnerTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RestAssuredIntegrationTest1.RegistrationSuccessful" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="ProjectRestAssured" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.project.restassured.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.project.restassured" />
+      <option name="MAIN_CLASS_NAME" value="com.project.restassured.RestAssuredIntegrationTest1" />
+      <option name="METHOD_NAME" value="RegistrationSuccessful" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RestAssuredIntegrationTest1.startServer" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="ProjectRestAssured" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.project.restassured.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.project.restassured" />
+      <option name="MAIN_CLASS_NAME" value="com.project.restassured.RestAssuredIntegrationTest1" />
+      <option name="METHOD_NAME" value="startServer" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RestAssuredIntegrationTest1.test_NumberOfCircuits_ShouldBe20_Parameterized" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="ProjectRestAssured" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.project.restassured.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.project.restassured" />
+      <option name="MAIN_CLASS_NAME" value="com.project.restassured.RestAssuredIntegrationTest1" />
+      <option name="METHOD_NAME" value="test_NumberOfCircuits_ShouldBe20_Parameterized" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.FeatureRunnerTest" />
+        <item itemvalue="JUnit.RestAssuredIntegrationTest1.test_NumberOfCircuits_ShouldBe20_Parameterized" />
+        <item itemvalue="JUnit.RestAssuredIntegrationTest1.RegistrationSuccessful" />
+        <item itemvalue="JUnit.RestAssuredIntegrationTest1.startServer" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="55147aaa-469b-4ddf-afc5-1dddac1e949d" name="Default Changelist" comment="" />
+      <created>1676078095785</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1676078095785</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="137" y="123" width="1203" height="609" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog" timestamp="1676079096505">
+      <screen x="0" y="23" width="1440" height="824" />
+    </state>
+    <state x="137" y="123" width="1203" height="609" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog/0.23.1440.824@0.23.1440.824" timestamp="1676079096505" />
+    <state x="399" y="237" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1676181634373">
+      <screen x="0" y="23" width="1440" height="824" />
+    </state>
+    <state x="399" y="237" key="#com.intellij.fileTypes.FileTypeChooser/0.23.1440.824@0.23.1440.824" timestamp="1676181634373" />
+    <state x="476" y="183" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1676110068956">
+      <screen x="0" y="23" width="1440" height="824" />
+    </state>
+    <state x="476" y="183" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.23.1440.824@0.23.1440.824" timestamp="1676110068956" />
+    <state width="1361" height="258" key="GridCell.Tab.0.bottom" timestamp="1676374577395">
+      <screen x="0" y="23" width="1440" height="824" />
+    </state>
+    <state width="1361" height="258" key="GridCell.Tab.0.bottom/0.23.1440.824@0.23.1440.824" timestamp="1676374577395" />
+    <state width="1361" height="258" key="GridCell.Tab.0.center" timestamp="1676374577394">
+      <screen x="0" y="23" width="1440" height="824" />
+    </state>
+    <state width="1361" height="258" key="GridCell.Tab.0.center/0.23.1440.824@0.23.1440.824" timestamp="1676374577394" />
+    <state width="1361" height="258" key="GridCell.Tab.0.left" timestamp="1676374577393">
+      <screen x="0" y="23" width="1440" height="824" />
+    </state>
+    <state width="1361" height="258" key="GridCell.Tab.0.left/0.23.1440.824@0.23.1440.824" timestamp="1676374577393" />
+    <state width="1361" height="258" key="GridCell.Tab.0.right" timestamp="1676374577394">
+      <screen x="0" y="23" width="1440" height="824" />
+    </state>
+    <state width="1361" height="258" key="GridCell.Tab.0.right/0.23.1440.824@0.23.1440.824" timestamp="1676374577394" />
+    <state width="1361" height="258" key="GridCell.Tab.1.bottom" timestamp="1676374577396">
+      <screen x="0" y="23" width="1440" height="824" />
+    </state>
+    <state width="1361" height="258" key="GridCell.Tab.1.bottom/0.23.1440.824@0.23.1440.824" timestamp="1676374577396" />
+    <state width="1361" height="258" key="GridCell.Tab.1.center" timestamp="1676374577395">
+      <screen x="0" y="23" width="1440" height="824" />
+    </state>
+    <state width="1361" height="258" key="GridCell.Tab.1.center/0.23.1440.824@0.23.1440.824" timestamp="1676374577395" />
+    <state width="1361" height="258" key="GridCell.Tab.1.left" timestamp="1676374577395">
+      <screen x="0" y="23" width="1440" height="824" />
+    </state>
+    <state width="1361" height="258" key="GridCell.Tab.1.left/0.23.1440.824@0.23.1440.824" timestamp="1676374577395" />
+    <state width="1361" height="258" key="GridCell.Tab.1.right" timestamp="1676374577395">
+      <screen x="0" y="23" width="1440" height="824" />
+    </state>
+    <state width="1361" height="258" key="GridCell.Tab.1.right/0.23.1440.824@0.23.1440.824" timestamp="1676374577395" />
+    <state x="276" y="91" key="Maven.ArtifactSearchDialog" timestamp="1676078872969">
+      <screen x="0" y="23" width="1440" height="824" />
+    </state>
+    <state x="276" y="91" key="Maven.ArtifactSearchDialog/0.23.1440.824@0.23.1440.824" timestamp="1676078872969" />
+    <state x="247" y="66" key="SettingsEditor" timestamp="1676078575732">
+      <screen x="0" y="23" width="1440" height="824" />
+    </state>
+    <state x="247" y="66" key="SettingsEditor/0.23.1440.824@0.23.1440.824" timestamp="1676078575732" />
+    <state x="395" y="262" key="com.intellij.ide.util.TipDialog" timestamp="1676181439716">
+      <screen x="0" y="23" width="1440" height="824" />
+    </state>
+    <state x="395" y="262" key="com.intellij.ide.util.TipDialog/0.23.1440.824@0.23.1440.824" timestamp="1676181439716" />
+    <state x="496" y="360" key="org.jetbrains.plugins.cucumber.inspections.ui.CreateStepDefinitionFileDialog" timestamp="1676182655379">
+      <screen x="0" y="23" width="1440" height="824" />
+    </state>
+    <state x="496" y="360" key="org.jetbrains.plugins.cucumber.inspections.ui.CreateStepDefinitionFileDialog/0.23.1440.824@0.23.1440.824" timestamp="1676182655379" />
+    <state x="403" y="194" width="670" height="675" key="run.anything.popup" timestamp="1676373369749">
+      <screen x="0" y="23" width="1440" height="824" />
+    </state>
+    <state x="403" y="194" width="670" height="675" key="run.anything.popup/0.23.1440.824@0.23.1440.824" timestamp="1676373369749" />
+  </component>
+</project>
