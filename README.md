@@ -13,8 +13,11 @@ This project is an automated API testing framework built with the following key 
 ## Features
 
 **BDD with Cucumber:** Write test scenarios in plain English using Gherkin, making it easier for non-developers to understand test cases.
+
 **Rest Assured Integration:** Simplifies testing of REST APIs, including sending requests and validating responses.
+
 **Response Validation:** JSON responses are converted into POJOs using the Jackson library, enabling straightforward and type-safe assertions.
+
 **Comprehensive Assertions:** Supports assertions on the response status, headers, and body content.
 
 
