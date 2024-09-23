@@ -35,7 +35,7 @@ pipeline {
             steps {
                 // Publish Cucumber report in Jenkins from the ProjectRestAssured directory
                 cucumber buildStatus: 'FAILURE',
-                          fileIncludePattern: '**/ProjectRestAssured/target/cucumber-reports/*.json',
+                          fileIncludePattern: '**/ProjectRestAssured/target/*.json',
                           sortingMethod: 'ALPHABETICAL'
             }
         }
