@@ -43,7 +43,7 @@ pipeline {
         stage('Archive Test Results') {
             steps {
                 // Archive test results for reference in Jenkins from the ProjectRestAssured directory
-                archiveArtifacts artifacts: '**/ProjectRestAssured/target/cucumber-reports/*.json', allowEmptyArchive: true
+                archiveArtifacts artifacts: '**/*.*', allowEmptyArchive: true
                 junit '**/ProjectRestAssured/target/surefire-reports/*.xml'
             }
         }
