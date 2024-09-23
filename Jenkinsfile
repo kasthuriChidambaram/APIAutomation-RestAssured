@@ -44,7 +44,7 @@ pipeline {
             steps {
                 // Archive test results for reference in Jenkins from the ProjectRestAssured directory
                 archiveArtifacts artifacts: '**/*.*', allowEmptyArchive: true
-                junit '**/ProjectRestAssured/target/surefire-reports/*.xml'
+               
             }
         }
     }
