@@ -43,6 +43,18 @@ Cucumber automatically generates detailed test reports in the target directory a
 
 Additionally, the Masterthought plugin is integrated into the framework to enhance the reporting capabilities. This plugin generates rich, interactive HTML reports that offer a comprehensive view of the test execution.
 
+## CI/CD Integration
+
+A Jenkinsfile has been added to the project to facilitate Continuous Integration and Continuous Deployment (CI/CD). This Jenkinsfile defines the pipeline for building, testing, and deploying the API automation framework.
+
+### Key Features:
+- **Automated Build**: Automatically compiles the project using Maven.
+- **Test Execution**: Runs API tests and generates reports.
+- **Artifact Archiving**: Archives Cucumber JSON reports for review.
+- **Pipeline Status**: Provides feedback on build status in Jenkins.
+
+### Usage:
+To utilize the CI/CD pipeline, configure Jenkins with the appropriate credentials and tools, and set up the pipeline to point to this repository. The pipeline will automatically trigger on changes to the main branch.
 
 
 
